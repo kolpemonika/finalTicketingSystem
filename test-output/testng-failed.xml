@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="testCases.CustomerMappingTest">
+        <methods>
+          <include name="TC_269"/>
+          <include name="closeBrowser"/>
+          <include name="TC_268"/>
+          <include name="TC_265"/>
+          <include name="TC_276"/>
+          <include name="TC_267"/>
+          <include name="TC_278"/>
+          <include name="launchBrowser"/>
+          <include name="TC_264"/>
+          <include name="TC_275"/>
+          <include name="TC_266"/>
+          <include name="TC_277"/>
+          <include name="setUp"/>
+          <include name="TC_272"/>
+          <include name="TC_263"/>
+          <include name="TC_274"/>
+          <include name="TC_271"/>
+          <include name="TC_262"/>
+          <include name="TC_273"/>
+          <include name="TC_270"/>
+        </methods>
+      </class> <!-- testCases.CustomerMappingTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
